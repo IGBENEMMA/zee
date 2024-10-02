@@ -1,0 +1,27 @@
+header{display: grid;
+    grid-template-columns: 40% 40%;
+    background-color: rgb(160, 163, 193);
+    height:100px ;}
+main{display: grid;
+    grid-template-columns: 40% 40%;}
+#timid{margin: 10%;}
+#food{border-style: groove;
+    border-radius: 20%;}
+body{background-color: rgb(212, 228, 231);}
+h2{font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-style: italic;
+}
+#header{}
+footer{height: 300px;
+    background-image: url("../../mypic6.jpg");
+    background-size: contain;
+    background-position: center;
+    border: 5px;
+    text-align: center;
+    color: white;}
+#background{height: 140px;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 5em 0;}
+    a{text-decoration: none;
+    color: white;}
